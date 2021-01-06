@@ -1,2 +1,3 @@
 # CrazyTeddy-DiscordBot
-Python Discord Bot
+
+Discord Bot
